@@ -1,0 +1,11 @@
+{
+    "name": "Unity84b3bb65eed9dd219507.Audioservice.Tests",
+    "references": [
+        "Unity84b3bb65eed9dd219507.Audioservice"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
