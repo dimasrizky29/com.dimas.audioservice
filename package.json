@@ -11,8 +11,6 @@
         "email": "example@email.com"
     },
     "dependencies": {
-        "com.cysharp.unitask": "2.5.10",
-        "jp.hadashikick.vcontainer": "1.17.0",
         "com.unity.addressables": "2.8.1"
     },
     "repository": {
