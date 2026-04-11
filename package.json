@@ -1,18 +1,30 @@
 {
-  "name": "com.unity_84b3bb65eed9dd219507.audioservice",
-  "displayName": "AudioService",
-  "version": "0.1.0",
-  "unity": "6000.3",
-  "unityRelease": "7f1",
-  "description": "Modular Audio Service with VContainer support",
-  "author": {
-    "name": "Dimas Rizky",
-    "url": "https://github.com/dimasrizky29",
-    "email": "example@email.com"
-  },
-  "dependencies": {
-    "com.cysharp.unitask": "git+https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
-    "jp.hadashikick.vcontainer": "git+https://github.com/hadashikooto/VContainer.git?path=src/VContainer/Assets/VContainer"
-    "com.unity.addressables": "2.8.1"
-  }
+    "name": "com.unity_84b3bb65eed9dd219507.audioservice",
+    "displayName": "AudioService",
+    "version": "0.1.0",
+    "unity": "6000.3",
+    "unityRelease": "7f1",
+    "description": "Modular Audio Service with VContainer support",
+    "author": {
+        "name": "Dimas Rizky",
+        "url": "https://github.com/dimasrizky29",
+        "email": "example@email.com"
+    },
+    "dependencies": {
+        "com.cysharp.unitask": "2.5.10",
+        "jp.hadashikick.vcontainer": "1.17.0",
+        "com.unity.addressables": "2.8.1"
+    },
+    "repository": {
+        "url": "https://github.com/dimasrizky29/com.dimas.audioservice.git",
+        "type": "git",
+        "revision": "c5df86e6283d24db7a70ad2b4324fc01af8daef2"
+    },
+    "samples": [
+        {
+            "displayName": "Example Sample",
+            "description": "Replace this string with your own description of the sample. Delete the Samples folder if not needed.",
+            "path": "Samples~/Example"
+        }
+    ]
 }
